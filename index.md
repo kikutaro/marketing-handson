@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# SendGrid キャンペーンメールハンズオン
 
-You can use the [editor on GitHub](https://github.com/kikutaro/marketing-handson/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+※ご自身のSendGridアカウントを既にお持ちの場合でも受付で配布されたアカウント情報をご使用ください
+※ブラウザはGoogle ChromeまたはFirefoxの最新版をご利用ください（IE,Edge,Safariなどは対象外）
+※iPadなどのタブレットは避けてください
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [ログイン](https://app.sendgrid.com/login)
 
-### Markdown
+- [KKEのWebサイト](https://www.kke.co.jp/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CSVファイルダウンロード
+- [handson_sample1.csv](https://mchandson.blob.core.windows.net/mchandson/handson_sample1.csv)　（左のリンクでダウンロードできない方は[こちらから](https://1drv.ms/u/s!AioRWUgfQPSShUiQqDrpzfcx5qzm)）
+- [handson_sample2.csv](https://mchandson.blob.core.windows.net/mchandson/handson_sample2.csv)　（左のリンクでダウンロードできない方は
+こちらから](https://1drv.ms/u/s!AioRWUgfQPSShUlJBxa92H7CPP7n)）
 
-```markdown
-Syntax highlighted code block
+- [templateで利用するサイト](https://www.sendwithus.com/resources/templates)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kikutaro/marketing-handson/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Responsive Email Patterns](http://responsiveemailpatterns.com/)
